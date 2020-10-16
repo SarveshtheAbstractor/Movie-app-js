@@ -111,7 +111,7 @@ main {
     margin-top: 0;
 }
 
-.movie:hover .overview {
+.movie-info:hover .overview {
     transform: translateY(0);
 }
 
