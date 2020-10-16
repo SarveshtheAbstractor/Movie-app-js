@@ -121,9 +121,9 @@ main {
   }
 }
 @media screen and (max-width:400px){
-    .flex img,strong{
-    margin-right: 10px;
-}
+    .search {
+        width: 100%;
+    }
     .movie{
         width: 100%;
         
