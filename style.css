@@ -119,9 +119,7 @@ main {
     .flex img,strong{
     margin-right: 10px;
   }
-}
-@media screen and (max-width:320px){
-    .search {
+       .search {
         width: 100%;
     }
     .movie{
